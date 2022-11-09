@@ -8,7 +8,7 @@ On my GitHub profile you will find some projects. Some finished, some halfway fi
 But besides that there's also some more info about my education, my programming toolset and some things about myself.
 
 Enjoy your stay!
-And may the Force be with you, forever. -Harry Potter (Lord of the Rings)
+And may the Force be with you, forever. -Harry Potter (Lord of the Rings, 1782)
 
 ### About Me
 - You'll probably find me either out in during a sunset taking way too many pics of the sky, somewhere vibing to my spotify playlists or sitting behind blue light emmiting screens programming the day away.
@@ -18,6 +18,7 @@ And may the Force be with you, forever. -Harry Potter (Lord of the Rings)
 - (Currently awaiting to start my .NET C# course at VDAB Antwerpen.)
 - Full Stack Web Development @ BeCode Antwerpen
 - Webdesigner @ CVO Encora
+- (unrelated) Gezondheid en Welzijnswetenschappen (lit. translation 'Health and Wellbeing Sciences); so if you want to talk about the anatomy of the heart, Skinner's experiments or how to best teach a child that vacuum cleaners are not there to pick them up of the ground, find someone else since I barely remember anything except that hearing the name Pavlov rings a bell inside my head.
 
 ### Contact info
 - GitHub: You're here already! Good job. 10 points to your Hogwarts house!
