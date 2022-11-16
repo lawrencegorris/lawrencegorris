@@ -15,7 +15,7 @@ And may the Force be with you, forever. -Harry Potter (Lord of the Rings, 1782)
 - Knowledge of HTML, CSS, JavaScript, Python, Node, Express, Vue, React, and some other libraries/frameworks. All varrying degrees of comfortness and skill. 
 
 ### Education
-- (Currently awaiting to start my .NET C# course at VDAB Antwerpen.)
+- Currently followin the .NET C# course at VDAB Antwerpen.
 - Full Stack Web Development @ BeCode Antwerpen
 - Webdesigner @ CVO Encora
 - (unrelated) Gezondheid en Welzijnswetenschappen (lit. translation 'Health and Wellbeing Sciences); so if you want to talk about the anatomy of the heart, Skinner's experiments or how to best teach a child that vacuum cleaners are not there to pick them up of the ground, find someone else since I barely remember anything except that hearing the name Pavlov rings a bell inside my head.
