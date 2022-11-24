@@ -2,7 +2,7 @@
 
 And welcome dear reader to my GitHub profile.
 My name is Lawrence Gorris from Antwerp, Belgium and I'm currently a student (but aren't we all in this thing called "life"?).
-Soon I will start my .NET C# course to increase my skillset and improve my overall programming knowledge.
+At the moment occupied with a .NET C# course at the VDAB.
 
 On my GitHub profile you will find some projects. Some finished, some halfway finished and some that... are also here.
 But besides that there's also some more info about my education, my programming toolset and some things about myself.
